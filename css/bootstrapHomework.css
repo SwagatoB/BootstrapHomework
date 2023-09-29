@@ -1,0 +1,125 @@
+/* custom.css */
+
+/* Include Bootstrap CSS */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+/* Custom Styles */
+body{
+    background-color: black;
+}
+.google-font-text {
+    font-family: 'Raleway';
+}
+
+.cyan-col{
+background-color: darkcyan;
+color: aliceblue;
+}
+
+.green-col{
+    background-color: darkgreen;
+    color: aliceblue;
+}
+
+.blue-col{
+    background-color: darkblue;
+    color: aliceblue;
+}
+
+
+.nav-bar-color {
+    background-color: #181823 !important;
+
+}
+
+.button{
+    text-align: center;
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.nav-link:hover{
+    color: cyan !important;
+}
+.nav-highlight{
+    color: cyan !important; 
+    font-weight: 800;
+}
+.navbar-brand {
+    color: aliceblue !important;
+    font-weight: 800;
+}
+
+.btn{
+    background-color: cyan;
+    color: #181823;
+    border: cyan;
+}
+
+.btn:hover{
+    background-color: cyan;
+    color: #181823;
+    border-color: cyan;
+    scale: 1.05;
+}
+
+.btn:active{
+    background-color: cyan !important;
+    border-color: cyan !important;
+    color: #181823 !important;
+}
+
+h1{
+    font-size: 1.802em;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+h1 span{
+    color: #181823;
+}
+
+h2{
+    font-size: 1.602em;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+h3{
+    font-size: 1.424em;
+    font-weight: 700;
+    color: aliceblue;
+}
+
+p{
+    color: aliceblue;
+}
+
+hr{
+    color: aliceblue !important;
+}
+
+.text-footer{
+    color: aliceblue;
+}
+
+.card-img-top{
+    height: 274px;
+}
+.footer{
+    background-color: #181823;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+.card-footer{
+    text-align: center !important;
+    border-color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+/* Add more custom styles as needed */

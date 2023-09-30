@@ -122,4 +122,15 @@ hr{
     padding-top: 20px;
     padding-bottom: 10px;
 }
+
+.carousel-inner{
+    height: 161px;
+    border: 0;
+    align-content: center;
+}
+.carousal-padding{
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-top: 20px;
+}
 /* Add more custom styles as needed */

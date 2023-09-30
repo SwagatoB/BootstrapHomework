@@ -20,3 +20,21 @@
     background-color: #181823 !important;
 
 }
+
+.col-lg-6{
+    flex: 0,0,auto;
+    width: 50%;
+}
+
+.typehierarchycont{
+    padding-bottom: 120px;
+}
+
+.footer{
+    background-color: #181823;
+    text-align: center;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}

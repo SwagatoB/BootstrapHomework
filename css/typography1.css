@@ -26,8 +26,12 @@
     width: 50%;
 }
 
-.typehierarchycont{
+.typography-container{
     padding-bottom: 120px;
+}
+
+hr{
+    background-color: lightgrey;
 }
 
 .footer{

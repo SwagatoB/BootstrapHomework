@@ -1,0 +1,127 @@
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css');
+
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.nav-link:hover{
+    color: cyan !important;
+}
+.nav-highlight{
+    color: cyan !important; 
+    font-weight: 800;
+}
+.navbar-brand {
+    color: aliceblue !important;
+    font-weight: 800;
+}
+.nav-bar-color {
+    background-color: #181823 !important;
+
+}
+
+.col-lg-6{
+    flex: 0,0,auto;
+    width: 50%;
+}
+
+.typography-container{
+    padding-bottom: 120px;
+}
+
+hr{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    background-color: lightgrey;
+}
+
+h1,h2,h3,h4{
+    padding-bottom: 0.667rem;
+}
+
+.type-intro{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.MontMerri {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.MontMerri h1,h2,h3,h4{
+    font-family: "Playfair+Display";
+}
+
+.MontMerri h1{
+    font-family: "Playfair+Display";
+    font-size: 4.209rem;
+    font-weight: 300;
+}
+
+.MontMerri h2{
+    font-family: "Playfair+Display";
+    font-size: 3.157rem;
+    font-weight: 300;
+}
+
+.MontMerri h3{
+    font-family: "Playfair+Display";
+    font-size: 2.369rem;
+    font-weight: 600;
+}
+
+.MontMerri h4{
+    font-family: "Playfair+Display";
+    font-size: 1.777rem;
+    font-weight: 700;
+}
+
+.MontMerri em {
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.MontMerri a {
+    font-size: 1em;
+    font-weight: 700;
+    color: #292929;
+    text-decoration-thickness: 2px;
+    text-decoration: underline;
+    text-decoration-color: #36abfd;
+}
+
+.MontMerri a:hover {
+    color: #0095ff;
+    text-decoration: none;
+}
+
+.MontMerri .hover {
+    font-weight: 550;
+    color: #0095ff;
+    text-decoration: none;
+}
+
+/*Code*/
+
+code {
+    color: #8794AA;
+    font-size: .875rem;
+}
+
+.specs {
+    padding-top: 20px;
+}
+
+/*Footer*/
+
+.footer{
+    background-color: #181823;
+    text-align: center;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}

@@ -107,7 +107,7 @@ h1,h2,h3,h4{
 /*Code*/
 
 code {
-    color: #8794AA;
+    color: black;
     font-size: .875rem;
 }
 
@@ -121,7 +121,7 @@ code {
     background-color: #181823;
     text-align: center;
     color: aliceblue;
-    bottom: 0;
+
     width: 100%;
     position: sticky;
 }

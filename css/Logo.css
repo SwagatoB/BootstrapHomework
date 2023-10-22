@@ -44,3 +44,12 @@ body{
     color: aliceblue !important;
     font-weight: 800;
 }
+
+.footer{
+    background-color: #181823;
+    color: aliceblue;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: sticky;
+}
